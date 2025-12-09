@@ -1,3 +1,2 @@
 # new-me
-s = "read"
-s[::-1]
+addd the mamam nfmd
