@@ -1,2 +1,3 @@
 # new-me
-xyzcv
+s = "read"
+s[::-1]
