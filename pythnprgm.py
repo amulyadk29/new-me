@@ -1,4 +1,4 @@
-#say hello 1
+# say hello 1
 # print("hello world")
 # print(546)
 # print("3421")
@@ -14,10 +14,10 @@
 # print(54//8)
 # print(3+4*7)
 # print((3+5)*3)
-#age challenge 
+# # age challenge 
 # print(21*365)
 
-# teach ur code to remember things
+ # teach ur code to remember things
 
 # color = "green"
 # age = 21
@@ -50,6 +50,6 @@
 # future = int(age) + 4
 # print(future)
 
-year = input("tell us ur birth year:")
-age = 2025 - int(year)
-print("ur age is:",age)
+# year = input("tell us ur birth year:")
+# age = 2025 - int(year)
+# print("ur age is:",age)
