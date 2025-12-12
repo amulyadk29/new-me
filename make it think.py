@@ -38,7 +38,7 @@
 
 # print("liftoff!")
 
-# contiunue
+# next
 # for i in range(6):
 #     if i==4:
 #         continue
@@ -53,7 +53,7 @@
 #     print("ur ans",age)
 
 # while True:
-#     i = input("say anything casual talk:")
+#     i = input("say anything casual:")
 #     if i == bye:
 #         break
 #     print("next word pls")
@@ -64,12 +64,12 @@
 # an = ["cat","pig","dog","cow"]
 # for i in an:
 #  print(i)
-# print(animals[3])
-# print(animals[-3])
-# animals.append("monkey")
-# animals.remove("cat")
+# print(an[3])
+# print(an[-3])
+# an.append("monkey")
+# an.remove("cat")
 
 # Write your code here.
-l = ["pig","green","cricket"]
-for i in l:
- print("i like",i)
+# l = ["pig","green","cricket"]
+# for i in l:
+#  print("i like",i)
